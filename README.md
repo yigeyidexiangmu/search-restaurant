@@ -1,2 +1,2 @@
 # search-restaurant
-根据菜系得处饭店
+根据菜系得出饭店
